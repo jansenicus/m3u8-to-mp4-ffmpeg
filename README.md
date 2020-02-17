@@ -1,4 +1,4 @@
-# m3u8-to-mp4-ffmpeg
+# m3u8-to-mp4 using ffmpeg
 downloader from m3u8 video streaming playlists into mp4 using ffmpeg in linux
 
 USAGE:
