@@ -1,5 +1,5 @@
 # Playlist Downloader (m3u8-to-mp4) using ffmpeg
-downloader from m3u8 video streaming playlists into mp4 using ffmpeg in linux
+python utility script to transcode video streaming playlist (m3u8) into mp4s using ffmpeg in linux
 
 USAGE:
 
